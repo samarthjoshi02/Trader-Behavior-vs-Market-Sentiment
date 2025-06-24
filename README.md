@@ -21,6 +21,10 @@ To analyze how market sentiment impacts:
 2. **Hyperliquid Trader Data**  
    - Trade-level information: Execution price, Size, Side, PnL, Timestamp, etc.
 
+3. **Link to dataset**
+   - Historical Data: https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
+   - Fear Greed Index link: https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
+
 ---
 
 ## 🧪 Key Steps
